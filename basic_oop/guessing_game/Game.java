@@ -10,7 +10,6 @@ public class Game {
         this.gameGuess = gameGuess;
         this.numberOfPlayers = numberOfPlayers;
         this.playersArray = playersArray;
-
     }
 
     public void setGameGuess(int min, int max) {
