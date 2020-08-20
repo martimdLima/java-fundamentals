@@ -1,0 +1,1 @@
+Returns a new String with the first and last characters switched
